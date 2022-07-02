@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-mongodb, discovery-kubernetes, graphql, http-client, java, java-application, junit, kubernetes-client, logback, maven, netty-server, readme, redis-lettuce, security-annotations, security-jwt, serialization-bson, serialization-jackson, shade, testcontainers, yaml]

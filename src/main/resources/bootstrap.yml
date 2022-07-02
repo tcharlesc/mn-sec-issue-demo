@@ -1,0 +1,8 @@
+kubernetes:
+  client:
+    discovery:
+      mode: endpoint
+      mode-configuration:
+        endpoint:
+          watch:
+            enabled: true
